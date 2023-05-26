@@ -1,0 +1,315 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    height: 150px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 10px;
+    position: absolute;
+    top: 40vh;
+    left: 40%;
+    z-index: 2;
+}
+.paraa1
+{
+ font-size: 20px;
+ color: rgb(0, 0, 0);
+ display: inline;
+ margin-left: 20px;
+ cursor: pointer;
+}
+.paraa11
+{
+    margin-left: 130px;
+}
+.container1
+{
+    background-color: rgba(116, 116, 116, 0.1);
+    height: 30px;
+    width: 260px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.paraa12
+{
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.container2
+{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(0, 118, 253);
+    margin-left: 170px;
+    margin-top: 30px;
+}
+.paraa13
+{
+    color: white;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.tag-item
+{
+    text-decoration: none;
+}
+.blur-item1
+{
+    filter:blur(5px);
+
+}
+.one
+{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 25px;
+    box-shadow: 0px 0px 10px gray;
+
+}
+.one1
+{
+    color: rgb(11, 201, 201);
+}
+.peris
+{
+    text-decoration: none;
+}
+.add-text
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.fa-solid
+{
+    font-size: 30px;
+    color: blue;
+}
+.text-container
+{
+    margin-top: 15px;
+    margin-left: 65%;
+}
+body
+{
+    background-color: rgb(240, 240, 240);
+}
+.flex-container
+{
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+}
+.flex-item
+{
+    height: 250px;
+    width: 270px;
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px gray; */
+    margin: 30px;
+}
+.flex-item:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.para
+{
+    color: rgb(2, 166, 166);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.checkbox-item
+{
+    margin-left: 20px;
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    user-select: none;
+    cursor: pointer;
+    color: gray;
+}
+.visit
+{
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+}
+.visit1
+{
+    font-size: 20px;
+}
+.peris
+{
+    text-decoration: none;
+}
+@media only screen and (min-width:300px) and (max-width:850px){
+    .one
+{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+    box-shadow: 0px 0px 10px gray;
+    /* margin-left: 20px; */
+
+}
+.one1
+{
+    color: rgb(11, 201, 201);
+}
+.peris
+{
+    text-decoration: none;
+}
+.add-text
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.fa-solid
+{
+    font-size: 30px;
+    color: blue;
+}
+.text-container
+{
+    margin-top: 15px;
+    margin-left: 55%;
+}
+body
+{
+    background-color: rgb(240, 240, 240);
+}
+.flex-container
+{
+    /* width: 1000px; */
+    display: flex;
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    margin-left: 1%;
+}
+.flex-item
+{
+    height: 250px;
+    width: 270px;
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px gray; */
+    margin: 30px;
+}
+.flex-item:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.para
+{
+    color: rgb(2, 166, 166);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.checkbox-item
+{
+    margin-left: 20px;
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    user-select: none;
+    cursor: pointer;
+    color: gray;
+}
+.visit
+{
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+}
+.visit1
+{
+    font-size: 20px;
+}
+.peris
+{
+    text-decoration: none;
+}
+.container
+{
+    height: 200px;
+    width: 270px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 10px;
+    position: absolute;
+    top: 40vh;
+    left: 5%;
+    z-index: 2;
+}
+.paraa1
+{
+ font-size: 20px;
+ color: rgb(0, 0, 0);
+ display: inline;
+ margin-left: 20px;
+ cursor: pointer;
+}
+.paraa11
+{
+    margin-left: 70px;
+}
+.container1
+{
+    background-color: rgba(116, 116, 116, 0.1);
+    height: 30px;
+    width: 260px;
+    margin-left: 15px;
+    margin-top: 40px;
+    padding-top: 2px;
+}
+.paraa12
+{
+    font-size: 15px;
+    color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.container2
+{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(0, 118, 253);
+    margin-left: 140px;
+    margin-top: 30px;
+}
+.paraa13
+{
+    color: white;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+.tag-item
+{
+    text-decoration: none;
+}
+}

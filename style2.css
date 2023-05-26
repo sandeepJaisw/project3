@@ -1,0 +1,172 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.one
+{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 10px;
+    font-size: 25px;
+    box-shadow: 0px 0px 10px gray;
+
+}
+.one1
+{
+    color: rgb(11, 201, 201);
+}
+.peris
+{
+    text-decoration: none;
+}
+.add-text
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.fa-solid
+{
+    font-size: 30px;
+    color: blue;
+}
+.text-container
+{
+    margin-top: 15px;
+    margin-left: 25%;
+}
+.text-one
+{
+    display: inline-block;
+}
+.text-container1
+{
+    margin-top: 15px;
+    margin-left: 25%;
+}
+.flex-item
+{
+    height: 250px;
+    width: 370px;
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px gray; */
+    margin: 30px;
+    margin-left: 30%;
+}
+.flex-item:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.para
+{
+    color: rgb(2, 166, 166);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.checkbox-item
+{
+    margin-left: 20px;
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    user-select: none;
+    cursor: pointer;
+    color: gray;
+}
+.visit
+{
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+}
+.visit1
+{
+    font-size: 20px;
+}
+body
+{
+    background-color: rgb(240, 240, 240);
+}
+@media only screen and (min-width:300px) and (max-width:850px) {
+    .add-text
+{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.fa-solid
+{
+    font-size: 30px;
+    color: blue;
+}
+.text-container
+{
+    margin-top: 15px;
+    margin-left: 5%;
+}
+.text-one
+{
+    display: inline-block;
+}
+.text-container1
+{
+    margin-top: 15px;
+    margin-left: 5%;
+}
+.flex-item
+{
+    height: 250px;
+    width: 270px;
+    background-color: white;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px gray; */
+    margin: 30px;
+    margin-left: 5%;
+}
+.flex-item:hover
+{
+    box-shadow: 0px 0px 10px gray;
+}
+.para
+{
+    color: rgb(2, 166, 166);
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.checkbox-item
+{
+    margin-left: 20px;
+    font-size: 18px;
+    width: 20px;
+    height: 20px;
+    user-select: none;
+    cursor: pointer;
+    color: gray;
+}
+.visit
+{
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+}
+.visit1
+{
+    font-size: 20px;
+}
+body
+{
+    background-color: rgb(240, 240, 240);
+}
+}
